@@ -1,2 +1,2 @@
-console.log('test');
-console.log('another_test');
+console.log('config.js');
+console.log('version2');
