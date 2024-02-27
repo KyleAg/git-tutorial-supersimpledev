@@ -1,2 +1,2 @@
-console.log('index.js');
-console.log('version3');
+console.log('test');
+console.log('another_test');
